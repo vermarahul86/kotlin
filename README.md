@@ -1,2 +1,2 @@
 # kotlin
-Basic learning programs 
+Basic learning programs yet to commit all the code.
